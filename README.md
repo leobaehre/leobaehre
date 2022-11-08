@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xsubo5
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently checking out new coding languages
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me? my discord is @xsubo5#1234
