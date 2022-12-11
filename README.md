@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xsubo5
+- 👋 Hi, I’m Leo Bähre
 - 👀 I’m interested in Programming
 - 🌱 I’m currently checking out new coding languages
 - 💞️ I’m looking to collaborate on nothing currently
