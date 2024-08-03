@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Leo Bähre
 - 👀 I’m interested in Programming
-- 🌱 I’m currently checking out new coding languages
-- 💞️ I’m looking to collaborate on nothing currently
-- 📫 How to reach me? my discord is @xsubo5#1234
+- 📫 How to reach me? my email is lobaehre@gmail.com
